@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleDiagram">
+        <attr name="cd_value" format="float"/>
+        <attr name="cd_base_color" format="color"/>
+        <attr name="cd_base_color_line" format="color"/>
+        <attr name="cd_second_color" format="color"/>
+        <attr name="cd_second_color_line" format="color"/>
+        <attr name="cd_line_color" format="color"/>
+        <attr name="cd_text_color" format="color"/>
+        <attr name="cd_text_size" format="dimension"/>
+        <attr name="cd_h" format="dimension"/>
+    </declare-styleable>
+</resources>
